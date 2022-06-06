@@ -77,7 +77,7 @@ The source code for two demo programs is included in the download:
 
 Both demo programs require Delphi 7 as a minimum. They are both compatible with the Delphi 32 bit and 64 bit Windows compilers.
 
-For more information about the demos see the file [`ReadMe.txt`](https://raw.githubusercontent.com/ddablib/dropfiles/main/Demo/ReadMe.txt) in the `Demos` directory.
+For more information about the demos see the file [`README.md`](https://github.com/ddablib/dropfiles/blob/main/Demo/README.md) in the `Demos` directory.
 
 ## Update History
 
