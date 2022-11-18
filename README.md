@@ -47,14 +47,12 @@ The components are for use with the VCL only: they are not compatible with FireM
 
 ## Installation
 
-The _Drop Files Components_, their documentation and the demo program are supplied in a zip file. Before installing you need to extract all the files from the zip file, preserving the directory structure. The following files will be extracted:
+The _Drop Files Components_, their documentation and the demo programs are supplied in a zip file. Before installing you need to extract all the files from the zip file, preserving the directory structure. The following files will be extracted:
 
 * **`PJDropFiles.pas`** – component source code.
 * **`PJDropFiles.dcr`** – component palette glyphs.
 * **`PJDropFilesDsgn.pas`** – property editors and component registration source code.
 * **`PJDropFilesDsgn.dfm`** – property editor form.
-* `PJDropFiles.hlp` – component help file that integrates with the Delphi 3-7 OpenHelp system.
-* `PJDropFiles.als` – a-link keyword file for integration with the Delphi 6 or 7 OpenHelp system.
 * `README.md` – this file.
 * `CHANGELOG.md` – component's change log.
 * `MPL-2.txt` – the Mozilla Public License v2.0.
@@ -63,10 +61,6 @@ The _Drop Files Components_, their documentation and the demo program are suppli
 In addition to the above files you will find the source code of [two demo projects](#demo-programs) the `Demo\1` and `Demo\2` sub-directories.
 
 You can now install the components into the Delphi IDE. To do this, the files `PJDropFiles.pas`, `PJDropFiles.dcr`, `PJDropFilesDsgn.pas` and `PJDropFilesDsgn.dfm` should be added to a design time package. If you need help doing this [see here](https://delphidabbler.com/url/install-comp).
-
-Note that the help file included in the download _will not work at all on Windows 10 & 11_. What's more it can only integrate with the IDE in Delphi 3-7. For information on how to do this, see [this article](https://delphidabbler.com/articles/article-15). Users of other versions of Delphi can either use the help file as a stand-alone file (in which case some links won't work) or you can use the Drop Files Components [online documentation](https://delphidabbler.com/url/dropfiles-docs).
-
-> **NOTE:** The help file is deprecated and is no longer being updated. The last update was in the v5.0.3 release. Any changes and new features added since then have not been included in the help file. For up to date documentation please refer to the [online documentation](https://delphidabbler.com/url/dropfiles-docs). _The help file will be removed in a future release._
 
 ## Demo programs
 
